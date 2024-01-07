@@ -1,0 +1,20 @@
+body {
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center; */
+
+    margin: 0;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+  }
+  
+#board{
+  margin-top: 6vh;
+  border: 10px solid grey;
+  border-radius: 4px;
+}
+
+body.dark-mode h1{
+  color: white;
+}
